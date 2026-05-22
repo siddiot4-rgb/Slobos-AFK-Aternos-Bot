@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "swordart.play.hosting",
-    "port": 25565,
+    "ip": "siddiot4.aternos.me",
+    "port": 19254
+,
     "version": "",
     "try-creative": false
   },
